@@ -22,6 +22,10 @@ Add `-g` to install it for every project. Omit `-g` to install it into the curre
 
 加上 `-g` 会装到所有项目；不加则只装到当前项目。
 
+Listed on skills.sh: <https://skills.sh/bigppwong/herdr-app-skills/herdr-app>
+
+已收录于 skills.sh：<https://skills.sh/bigppwong/herdr-app-skills/herdr-app>
+
 You need the Herdr app and herdr-core (`hc`) installed separately. This skill does not install Herdr, and an agent using it should not install the skill itself unless you ask.
 
 Herdr App 和 herdr-core（`hc`）需要另行安装。本 skill 不会安装 Herdr；使用它的 agent 也不应在未经你同意时自行安装 skill。
